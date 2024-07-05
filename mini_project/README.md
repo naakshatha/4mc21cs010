@@ -50,7 +50,7 @@ apt-get -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin do
 
 # Example: Download application code from Git repository
 cd /home/ubuntu
-git clone https://github.com/Guru227/mce_devops
+git clone https://github.com/naakshatha/4mc21cs010.git
 cd mce_devops
 
 # Adjust ownership to the ubuntu user
